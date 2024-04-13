@@ -2,5 +2,4 @@ venv
 _*pycache*_
 qr_codes
 *.sqlite
-.vscode
 .env
